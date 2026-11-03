@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-01T23:38:52Z",
+  "generated": "2026-11-03T10:28:42Z",
   "image": "pdfcraft",
   "tags": {
     "latest-aarch64": {
-      "app_version": "0.17.0",
+      "app_version": "0.18.0",
       "arch": "aarch64",
-      "generated": "2026-11-01T23:38:25Z",
+      "generated": "2026-11-03T10:27:57Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -252,7 +252,7 @@
               "MPL20"
             ],
             "name": "ca_root_nss",
-            "version": "3.131"
+            "version": "3.132"
           },
           {
             "licenses": [
