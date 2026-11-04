@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-03T22:35:22Z",
+  "generated": "2026-11-04T08:15:23Z",
   "image": "pdfcraft",
   "tags": {
     "latest-amd64": {
-      "app_version": "0.18.0",
+      "app_version": "0.18.1",
       "arch": "amd64",
-      "generated": "2026-11-03T22:34:46Z",
+      "generated": "2026-11-04T08:14:47Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
